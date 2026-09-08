@@ -24,7 +24,7 @@ The dashboard uses Data Cleaning, Pivot Tables, KPIs, Charts, Slicers, and inter
   -  Build an interactive dashboard using Excel slicers and filters. 
   -  Convert data into business-oriented insights for decision-making.  with bullet points
 
-3. Tools & Technologies
+3. Tools & Technologies:
   ● Microsoft Excel
   ● Pivot Tables
   ● Pivot Charts
@@ -36,16 +36,16 @@ The dashboard uses Data Cleaning, Pivot Tables, KPIs, Charts, Slicers, and inter
   ● Data Visualization
   ● Dashboard Design
 
-4. Project Structure
+5. Project Structure
   The Excel workbook contains multiple sheets representing different stages of the analysis:
   
-  i.Dashboard Data
+  i.Dashboard Data:
    Contains the Sales dataset used for the analysis.
   
-  ii. KPIs
+  ii. KPIs:
    Contains KPIs and Pivot tables to  
   
-  iii. Dashboard
+  iii. Dashboard:
    Contains the interactive HR analytics dashboard with important KPIs and visualizations.
 
 4.Key KPIs & Analysis
@@ -74,15 +74,16 @@ The dashboard uses Data Cleaning, Pivot Tables, KPIs, Charts, Slicers, and inter
     ↩️ Return Status
     ⭐ Rating
     📋 Order Status
+
     
 5. Skills Demostrated
-  Data Cleaning
-  Data Analysis
-  Excel
-  Pivot Tables
-  Data Visualization
-  KPI Analysis
-  Dashboard Development
-  Business Insight Generation
+  -Data Cleaning
+  -Data Analysis
+  -Excel
+  -Pivot Tables
+  -Data Visualization
+  -KPI Analysis
+  -Dashboard Development
+  -Business Insight Generation
 
 ⭐If you find this project useful, feel free to explore the repository and share your feedback.
